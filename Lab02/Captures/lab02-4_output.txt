@@ -1,0 +1,18 @@
+ a=8152
+ b=27361080
+ c=81.00
+ d=33.73
+ e=21
+ f=2
+ g=2.00
+ h=21.00
+ i=22.00
+ j=2
+ k=22.00
+
+
+The area of a cirlce with the circumference 23.567 is: 1745.553823
+
+14 feet is equal to 4.266992 meters
+
+76 degrees Farhrenheit is equal to 24.444444 Celsius
